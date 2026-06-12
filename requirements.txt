@@ -1,0 +1,6 @@
+langchain-ollama
+langchain-core
+langchain
+python-dotenv
+gradio
+torch
